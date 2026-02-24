@@ -1,0 +1,9 @@
+prompt gemini
+1. (ngasih codenya) soal T01
+2. buatkan kodenya untuk t01
+3. (ngasih ss-an src model) disini diisi apa?
+4. cara mengcompile dan test
+
+prompt ChatGPT
+1. (ngasih file) untuk soal t01 
+2. ini kan pbo, pake java
