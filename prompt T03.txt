@@ -1,0 +1,12 @@
+prompt gemini:
+1. (impor code) laundry del itu punya sistemnya tersendiri
+    1. penjemputan laundry dilakukan per asrama di 1 hari yang sama, dansetiap asrama memiliki waktunya tersendiri
+    2. proses pengerjaanhya bisa diblg 1x24 jam, kalau dijemput rabu, laundry bersuhnya datang di hari kamis
+    3. kami punya list catatan yg merangkup barang apa aja yang kami masukkan di laundry bag. didalam listnya ada nama, tanggal. jenis pakaian, jumlah, dan keterangan. misalnya: kemeja, 2 pcs, berwarna hitam dan putih
+    4. kita bisa melaundry pakaian putih atau luntur, dengan cara memasukkannya ke plastik tersendiri, kem udian menandainya
+    5. ada berat minimum untuk laundry, kalau melebihi maka laundry tidak di proses
+    6. untuk pengaduan, misalnya ada pakaian yg hilang itu prosesnya cuma 1x24 jam setelah itu tidak akan ditanggapi. untuk laundry bag yg didalamnya tidak ada list pakaian juga tidak akan di proses laundrynya
+    7. karna dalam 1 asrama bisa sampe 200 org lebih, jd proses penjemputan, pengerjaan, dan pengantaran laundry bertahap, laundry bag yg duluan di jemput pasti akan duluan di proses, sehingga duluan juga di antar
+    8. pengantaran laundry bag akan dibuat dibuat di depann asrama, sehingga membutuhkan waktu   untuk mencari laundry bag kita dan bisa jadi laundry bag nyasar ke asrama lain
+2. yg model datanya ditambahin aja ke yg sebelumnya?
+3. inputnya apa?
