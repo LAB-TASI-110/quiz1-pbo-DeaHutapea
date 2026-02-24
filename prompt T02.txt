@@ -1,0 +1,7 @@
+prompt gemini:
+1. (impor code) jelaskan soal T02
+2. buatkan codenya
+3. (ngasih ss-an error) ada yang salah 
+4. di test pake apa?
+5. untuk kode kelompok itu, kalau diubah berdasarkan gender?
+6. dari mana bisa tau gendernya ? 
